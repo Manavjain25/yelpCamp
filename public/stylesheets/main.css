@@ -1,0 +1,42 @@
+/* body{
+    background:purple;
+} */
+
+.thumbnail img{
+    width :100%;
+}
+
+.thumbnail {
+    padding: 0px;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.delete{
+    display: inline;
+}
+
+.alert{
+    padding: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+
+.h1, h1 {
+    font-size: 26px;
+}
